@@ -1,0 +1,25 @@
+C:\coding project\FileManager\FileClient\bin\Debug\FileClient.exe.config
+C:\coding project\FileManager\FileClient\bin\Debug\FileClient.exe
+C:\coding project\FileManager\FileClient\bin\Debug\FileClient.pdb
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.Properties.Resources.resources
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.csproj.GenerateResource.cache
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.exe
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.pdb
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.csprojAssemblyReference.cache
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.Client.resources
+C:\coding project\FileManager\FileClient\obj\Debug\FileClient.Detail.resources
+C:\coding project\application software practice\FileManager\FileClient\bin\Debug\FileClient.exe.config
+C:\coding project\application software practice\FileManager\FileClient\bin\Debug\FileClient.exe
+C:\coding project\application software practice\FileManager\FileClient\bin\Debug\FileClient.pdb
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.csprojAssemblyReference.cache
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.Client.resources
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.Properties.Resources.resources
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.csproj.GenerateResource.cache
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.exe
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.pdb
+C:\coding project\application software practice\FileManager\FileClient\bin\Debug\PacketDefine.dll
+C:\coding project\application software practice\FileManager\FileClient\bin\Debug\PacketDefine.pdb
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.csproj.CopyComplete
+C:\coding project\application software practice\FileManager\FileClient\obj\Debug\FileClient.FormDetail.resources

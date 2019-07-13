@@ -1,0 +1,5 @@
+C:\coding project\application software practice\FileManager\PacketDefine\obj\Debug\PacketDefine.csproj.CoreCompileInputs.cache
+C:\coding project\application software practice\FileManager\PacketDefine\bin\Debug\PacketDefine.dll
+C:\coding project\application software practice\FileManager\PacketDefine\bin\Debug\PacketDefine.pdb
+C:\coding project\application software practice\FileManager\PacketDefine\obj\Debug\PacketDefine.dll
+C:\coding project\application software practice\FileManager\PacketDefine\obj\Debug\PacketDefine.pdb

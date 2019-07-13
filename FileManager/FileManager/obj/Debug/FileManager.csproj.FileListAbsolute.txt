@@ -1,0 +1,23 @@
+C:\coding project\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\coding project\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\coding project\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.server.resources
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\coding project\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\coding project\application software practice\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\coding project\application software practice\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\coding project\application software practice\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.server.resources
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\coding project\application software practice\FileManager\FileManager\bin\Debug\PacketDefine.dll
+C:\coding project\application software practice\FileManager\FileManager\bin\Debug\PacketDefine.pdb
+C:\coding project\application software practice\FileManager\FileManager\obj\Debug\FileManager.csproj.CopyComplete
